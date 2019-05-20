@@ -1,8 +1,7 @@
 Planning de la semaine
-lundi
-mardi
-mercredi
-jeudi
-vendredi
-samedi
-dimanche
+lundi = Cobol
+mardi = Java
+mercredi = Hibernate
+jeudi = SQL
+vendredi = XML
+samedi & dimanche = PLS
